@@ -1,0 +1,4 @@
+/home/guest/repos/sasha_lab4/CMakeFiles/rebuild_cache.dir
+/home/guest/repos/sasha_lab4/CMakeFiles/mylib.dir
+/home/guest/repos/sasha_lab4/CMakeFiles/edit_cache.dir
+/home/guest/repos/sasha_lab4/CMakeFiles/main.dir
